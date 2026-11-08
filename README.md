@@ -1,10 +1,11 @@
 <h1 align="center">Abiral Timalsina</h1>
 
 <h2 align="center">🔍 DFIR | Digital Forensics &amp; Incident Response</h2>
+<h2 align="center">🦠 Malware Researcher | AI Security</h2>
 
 <p align="center">
   <a href="https://github.com/abiral-timalsina">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Digital+Forensics...;Incident+Response...;CTF+Player...;Always+Learning..." alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Digital+Forensics...;Incident+Response...;Malware+Researcher...;Always+Learning..." alt="Typing animation" />
   </a>
 </p>
 
@@ -17,9 +18,9 @@
 # 💫 About Me
 
 - 🔭 I'm currently working on digital forensics labs
-- 🌱 I'm currently learning Bash scripting, web hacking, and DFIR tools
-- 🤝 I'm looking to collaborate on CTF challenges and open-source security projects
-- 💬 Ask me about CTFs, digital forensics, and phishing analysis
+- 💼 Working at Bytherix in digital forensics and malware research
+- 🦠 Exploring malware analysis and AI security
+- 🌱 Currently learning Bash scripting, assembly, and DFIR tools
 - ⚡ Fun fact: I like turning what I learn from CTFs into hands-on lab write-ups
 
 ## 🚀 Projects
